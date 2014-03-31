@@ -9,8 +9,3 @@ So now I want more super.
 
 Thsi is new changes for super 2
 
-<<<<<<< HEAD
-This line only in Super 2
-=======
-This line only in Super
->>>>>>> Super
