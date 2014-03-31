@@ -1,1 +1,2 @@
 This is first Git Files again just for fun.
+This is version 2
