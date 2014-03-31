@@ -8,3 +8,5 @@ Wow. Superb
 So now I want more super.
 
 Thsi is new changes for super 2
+
+This line only in Super
